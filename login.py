@@ -8,4 +8,6 @@ num=400
 
 jingli de xiugai 2
 
+num6=6666
+
 over
